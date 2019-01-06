@@ -1,0 +1,3 @@
+{ "net": [ "http://jungle2.cryptolions.io:80",
+			   "https://api.jungle.alohaeos.com"]
+}
