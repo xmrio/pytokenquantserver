@@ -1,7 +1,19 @@
-# pyblockchainserver
-
-#### 项目介绍
-python server of blockchain
-
-#### 软件架构
-软件架构说明参考wiki.
+# An Open Source Digital Currency Quant Server
+ 这是一款历经三个月开发的开源数字货币交易系统。
+* 已经实现的功能：
+  * 策略详情及分类页面
+  * 策略订购
+  * 策略管理页面
+  * 策略配置页面
+  * 账户系统
+  * 查看策略运行实时LOG
+  * 集成了各大主流交易所的交易对
+  * 对敲策略
+  * 三角策略
+  * 海龟策略回测
+  * 缠论策略回测
+* TODO：
+  * docker配置
+  * 海龟策略
+  * 缠论策略
+  
